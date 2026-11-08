@@ -1,0 +1,61 @@
+sort1 uses: Bubble Sort
+
+random10000.txt:
+real    0m0,229s
+user    0m0,136s
+sys     0m0,043s
+
+reversed10000.txt:
+real    0m0,229s
+user    0m0,179s
+sys     0m0,034s
+
+sorted10000.txt:
+real    0m0,055s
+user    0m0,002s
+sys     0m0,039s
+
+How do you know?: Sort1 is the lower program when we compare each others in random cases
+and when we see sorted cases the sort1 is faster then sort3 so the sort1 is the Bubble sort
+algorithm
+======================================
+sort2 uses: Merge Sort
+
+random10000.txt:
+real    0m0,061s
+user    0m0,010s
+sys     0m0,032s
+
+reversed10000.txt:
+real    0m0,090s
+user    0m0,004s
+sys     0m0,039s
+
+sorted10000.txt:
+real    0m0,043s
+user    0m0,006s
+sys     0m0,036s
+
+How do you know?: The programn sort2 is faster then other in all situations.
+======================================
+sort3 uses: Selection Sort
+
+random10000.txt:
+real    0m0,114s
+user    0m0,072s
+sys     0m0,039s
+
+reversed10000.txt:
+real    0m0,149s
+user    0m0,077s
+sys     0m0,042s
+
+sorted10000.txt:
+real    0m0,117s
+user    0m0,073s
+sys     0m0,033s
+
+How do you know?: Because when you use the random situation the sort3 is
+is the second faster programn, but in the situation of the numbers are sorted
+the sort3 is lower, when we consider this thinks we can label the sort3 being
+the selection sort.
